@@ -1,0 +1,440 @@
+reference,name,latitude,longitude,grid,locationDesc,attempts,activations,qsos,my_activations,my_hunted_qsos
+US-0018,Crater Lake National Park,42.87,-122.144,CN82wu,US-OR,212,195,6360,0,0
+US-0054,Nez Perce National Historical Park,46.447,-116.824,DN16ok,"US-ID,US-MT,US-OR,US-WA",78,75,2162,0,0
+US-0199,Lower Klamath National Wildlife Refuge,41.9486,-121.711,CN91dw,"US-CA,US-OR",21,17,420,0,0
+US-0200,Sarah Helmick State Recreation Area,44.7818,-123.237,CN84js,US-OR,151,134,4076,1,0
+US-0213,Maud Williamson State Recreation Area,45.0959,-123.069,CN85lc,US-OR,262,244,6992,1,0
+US-0219,H.B. VanDuzer Scenic Corridor State Forest,45.0387,-123.809,CN85ca,US-OR,25,22,442,1,0
+US-0494,Ankeny National Wildlife Refuge,44.7867,-123.09,CN84ks,US-OR,129,121,4104,0,0
+US-0495,Bandon Marsh National Wildlife Refuge,43.1574,-124.38,CN73td,US-OR,61,58,1521,0,0
+US-0496,Baskett Slough National Wildlife Refuge,44.962,-123.257,CN84ix,US-OR,241,221,7602,1,1
+US-0498,Cape Meares National Wildlife Refuge,45.4859,-123.974,CN85al,US-OR,25,22,386,0,0
+US-0499,Cold Springs National Wildlife Refuge,45.8552,-119.157,DN05ku,US-OR,25,25,712,0,0
+US-0500,Hart Mountain National Wildlife Refuge,42.5489,-119.655,DN02en,US-OR,6,6,185,0,0
+US-0501,Klamath Marsh National Wildlife Refuge,42.9215,-121.726,CN92dw,US-OR,18,16,408,0,0
+US-0502,Malheur National Wildlife Refuge,43.2657,-118.844,DN03ng,US-OR,35,30,909,0,0
+US-0503,McKay Creek National Wildlife Refuge,45.5968,-118.798,DN05oo,US-OR,23,23,431,0,0
+US-0504,Nestucca Bay National Wildlife Refuge,45.1621,-123.952,CN85ad,US-OR,21,21,573,0,0
+US-0505,Oregon Islands National Wildlife Refuge,43.1132,-124.434,CN73sc,US-OR,84,77,1917,0,0
+US-0506,Siletz Bay National Wildlife Refuge,44.8966,-124.012,CN74xv,US-OR,19,18,277,1,0
+US-0508,Tualatin River National Wildlife Refuge,45.3813,-122.831,CN85oj,US-OR,188,167,4097,0,0
+US-0509,Upper Klamath National Wildlife Refuge,42.5099,-122.089,CN82wm,US-OR,4,4,65,0,0
+US-0510,William L. Finley National Wildlife Refuge,44.4075,-123.341,CN84hj,US-OR,70,60,2416,0,0
+US-0582,Julia Butler Hansen National Wildlife Refuge,46.2322,-123.399,CN86hf,"US-OR,US-WA",24,22,615,0,0
+US-0583,Lewis and Clark National Wildlife Refuge,46.2092,-123.764,CN86cf,US-OR,5,3,64,0,0
+US-0596,Umatilla National Wildlife Refuge,45.9262,-119.624,DN05ew,"US-OR,US-WA",31,31,879,0,0
+US-0731,Columbia River Gorge National Forest,45.6967,-121.29,CN95iq,"US-OR,US-WA",915,880,30582,0,0
+US-0824,Fort Vancouver National Historic Site,45.6258,-122.655,CN85qp,"US-OR,US-WA",461,398,12552,0,0
+US-0945,John Day Fossil Beds National Monument,44.5526,-119.645,DN04en,US-OR,23,22,553,0,0
+US-0953,Oregon Caves National Monument,42.0983,-123.409,CN82hc,US-OR,9,9,215,0,0
+US-2809,Ainsworth State Park,45.5959,-122.051,CN85xo,US-OR,19,13,251,0,0
+US-2810,Alderwood Wayside State Park,44.154,-123.424,CN84gd,US-OR,62,59,2013,0,0
+US-2811,Alfred A Loeb State Park,42.1125,-124.187,CN72vc,US-OR,12,12,434,0,0
+US-2812,Bates State Park,44.5925,-118.51,DN04ro,US-OR,7,7,195,0,0
+US-2813,Beverly Beach State Park,44.729,-124.056,CN74xr,US-OR,132,109,2553,0,0
+US-2814,Bob Straub State Park,45.1933,-123.967,CN85ae,US-OR,34,31,736,0,0
+US-2815,Brian Booth State Park,44.5179,-124.071,CN74xm,US-OR,16,16,357,0,0
+US-2816,Bullards Beach State Park,43.1514,-124.402,CN73td,US-OR,187,168,6043,0,0
+US-2817,Cape Arago State Park,43.3063,-124.399,CN73th,US-OR,79,75,1718,0,0
+US-2818,Cape Blanco State Park,42.8305,-124.548,CN72rt,US-OR,66,63,2099,0,0
+US-2819,Cape Lookout State Park,45.3558,-123.971,CN85ai,US-OR,60,52,1327,0,0
+US-2820,Carl G. Washburne Memorial State Park,44.1606,-124.115,CN74wd,US-OR,13,12,208,0,0
+US-2821,Cascadia State Park,44.3973,-122.481,CN84sj,US-OR,26,21,468,0,0
+US-2822,Catherine Creek State Park,45.1526,-117.742,DN15dd,US-OR,11,7,122,0,0
+US-2823,Chandler Wayside State Park,42.4068,-120.289,CN92uj,US-OR,7,5,130,0,0
+US-2824,Collier Memorial State Park,42.6428,-121.873,CN92bp,US-OR,33,32,681,0,0
+US-2825,Cottonwood Canyon State Park,45.479,-120.469,CN95sl,US-OR,22,16,520,0,0
+US-2826,Ecola State Park,45.9391,-123.987,CN85aw,US-OR,68,57,1723,0,0
+US-2827,Elijah Bristow State Park,43.9406,-122.835,CN83nw,US-OR,145,131,5459,0,0
+US-2828,Ellmaker State Wayside State Park,44.616,-123.63,CN84eo,US-OR,11,10,205,0,0
+US-2829,Fort Stevens State Park,46.1879,-123.969,CN86ae,US-OR,190,159,4905,0,0
+US-2830,Guy W. Talbot State Park,45.5397,-122.221,CN85vm,US-OR,26,23,330,0,0
+US-2831,Harris Beach State Park,42.0674,-124.311,CN72ub,US-OR,49,41,1573,0,0
+US-2832,Hat Rock State Park,45.9118,-119.17,DN05jv,US-OR,47,45,1201,0,0
+US-2833,Hilgard Junction State Park,45.3421,-118.236,DN05vi,US-OR,36,34,1278,0,0
+US-2834,Hoffman Memorial State Park,43.0353,-124.117,CN73wa,US-OR,8,8,339,0,0
+US-2835,Humbug Mountain State Park,42.6885,-124.433,CN72sq,US-OR,22,20,335,0,0
+US-2836,Illinois River Forks State Park,42.1504,-123.653,CN82ed,US-OR,15,14,280,0,0
+US-2837,Jessie M. Honeyman Memorial State Park,43.9272,-124.109,CN73ww,US-OR,82,71,1979,0,0
+US-2838,L.L. Stub Stewart State Park,45.7373,-123.192,CN85jr,US-OR,246,218,7616,0,0
+US-2839,LaPine State Park,43.7639,-121.529,CN93fs,US-OR,91,83,3006,0,0
+US-2840,Lake Owyhee State Park,43.6103,-117.257,DN13io,US-OR,22,21,585,0,0
+US-2841,Mayer State Park,45.6833,-121.289,CN95iq,US-OR,164,159,5321,0,0
+US-2842,Memaloose State Park,45.6954,-121.336,CN95hq,US-OR,120,115,3204,0,0
+US-2843,Milo McIver State Park,45.2986,-122.371,CN85th,US-OR,240,228,11771,0,0
+US-2844,Molalla River State Park,45.2952,-122.701,CN85ph,US-OR,179,162,5721,0,0
+US-2845,Nehalem Bay State Park,45.686,-123.937,CN85aq,US-OR,77,63,2598,0,0
+US-2846,Oregon State Capitol State Park,44.9381,-123.028,CN84lw,US-OR,33,32,527,0,0
+US-2847,Oswald West State Park,45.7615,-123.958,CN85as,US-OR,26,23,540,0,0
+US-2848,Port Orford Heads State Park,42.7393,-124.511,CN72rr,US-OR,30,28,423,0,0
+US-2849,Prineville Reservoir State Park,44.1278,-120.723,CN94pd,US-OR,27,25,744,0,0
+US-2850,Rooster Rock State Park,45.547,-122.236,CN85vn,US-OR,131,124,3727,0,0
+US-2851,Shore Acres State Park,43.3232,-124.385,CN73th,US-OR,24,23,416,0,0
+US-2852,Silver Falls State Park,44.8761,-122.653,CN84qv,US-OR,115,100,3004,2,0
+US-2853,Smith Rock State Park,44.364,-121.14,CN94ki,US-OR,77,71,1940,0,0
+US-2854,South Beach State Park,44.6052,-124.06,CN74xo,US-OR,227,211,5722,0,0
+US-2855,Starvation Creek State Park,45.6885,-121.69,CN95dq,US-OR,33,29,1895,0,0
+US-2856,Sunset Bay State Park,43.3306,-124.373,CN73th,US-OR,25,20,396,0,0
+US-2857,The Cove Palisades State Park,44.5346,-121.289,CN94im,US-OR,59,55,1819,0,0
+US-2858,Tub Springs State Park,42.1155,-122.442,CN82sc,US-OR,18,14,395,0,0
+US-2859,Tumalo State Park,44.1273,-121.333,CN94id,US-OR,70,68,1536,0,0
+US-2860,Umpqua Lighthouse State Park,43.6628,-124.199,CN73vp,US-OR,45,41,773,0,0
+US-2861,Valley of the Rogue State Park,42.409,-123.133,CN82kj,US-OR,97,86,3473,0,0
+US-2862,Viento State Park,45.6979,-121.668,CN95dq,US-OR,56,49,1249,0,0
+US-2863,Wallowa Lake State Park,45.2821,-117.213,DN15jg,US-OR,26,23,361,0,0
+US-2864,Wallowa Lake Hwy Scenic Corridor State Park,45.6117,-117.63,DN15eo,US-OR,10,8,136,0,0
+US-2865,White River Falls State Park,45.2439,-121.097,CN95kf,US-OR,21,21,1083,0,0
+US-2866,Willamette Mission State Park,45.0757,-123.04,CN85lb,US-OR,147,129,3589,0,0
+US-2867,William M. Tugman State Park,43.6018,-124.178,CN73vo,US-OR,109,100,3664,0,0
+US-3424,Ice Age Floods National Geologic Trail,47.5866,-119.686,DN07do,"US-ID,US-MT,US-OR,US-WA",4621,4373,144473,1,3
+US-4378,Deschutes National Forest,43.9974,-121.406,CN93hx,US-OR,516,370,11904,0,0
+US-4379,Fremont-Winema National Forest,42.6587,-121.855,CN92bp,US-OR,164,143,4700,0,0
+US-4380,Malheur National Forest,44.3193,-118.675,DN04ph,US-OR,51,48,1307,0,0
+US-4381,Mount Hood National Forest,45.3102,-121.642,CN95eh,US-OR,332,289,9122,0,0
+US-4382,Ochoco National Forest,44.3762,-120.118,CN94wj,US-OR,83,71,3491,0,0
+US-4383,Rogue River-Siskiyou National Forest,41.9816,-123.961,CN81ax,"US-CA,US-OR",162,147,5378,0,0
+US-4384,Siuslaw National Forest,44.359,-123.824,CN84ci,US-OR,280,253,13271,0,0
+US-4385,Umatilla National Forest,45.1946,-118.667,DN05pe,"US-OR,US-WA",113,104,5771,0,0
+US-4386,Umpqua National Forest,43.2272,-122.69,CN83pf,US-OR,403,357,19437,0,0
+US-4387,Wallowa-Whitman National Forest,45.3332,-117.001,DN15lh,"US-ID,US-OR",90,83,3039,0,0
+US-4388,Willamette National Forest,44.1576,-122.062,CN84xd,US-OR,143,124,2715,0,0
+US-4389,Cascade-Siskiyou National Monument,42.1657,-122.464,CN82sd,US-OR,79,77,2672,0,0
+US-4390,Newberry Crater Volcanic National Monument,43.9096,-121.357,CN93hv,US-OR,153,129,3841,0,0
+US-4457,Klamath National Forest,41.6015,-122.847,CN81no,"US-CA,US-OR",55,50,1882,0,0
+US-4562,Pacific Crest Trail National Scenic Trail,47.4273,-121.421,CN97gk,"US-CA,US-OR,US-WA",378,334,10038,0,0
+US-4566,California National Historic Trail,38.9943,-94.4833,EM28sx,"US-CA,US-CO,US-ID,US-KS,US-MO,US-NE,US-NV,US-OR,US-UT,US-WY",2833,2757,113904,0,1
+US-4572,Lewis and Clark National Historic Trail,41.2646,-95.9246,EN21ag,"US-IA,US-ID,US-IL,US-IN,US-KS,US-KY,US-MO,US-MT,US-ND,US-NE,US-OH,US-OR,US-PA,US-SD,US-WA,US-WV",4919,4789,244974,0,0
+US-4574,Nez Perce National Historic Trail,46.7468,-114.172,DN26vr,"US-ID,US-MT,US-OR,US-WY",265,259,10032,0,0
+US-4576,Oregon National Historic Trail,39.3826,-96.4057,EM19tj,"US-ID,US-KS,US-MO,US-NE,US-OR,US-WA,US-WY",3527,3396,158157,0,0
+US-5456,Clatsop State Forest,46.1762,-123.504,CN86fe,US-OR,58,55,2384,0,0
+US-5457,Elliott State Forest,43.446,-124.022,CN73xk,US-OR,60,58,1817,0,0
+US-5458,Gilchrist State Forest,43.472,-121.681,CN93dl,US-OR,23,19,443,0,0
+US-5459,Santiam State Forest,44.7203,-122.446,CN84sr,US-OR,32,32,572,0,0
+US-5460,Sun Pass State Forest,42.738,-121.937,CN92ar,US-OR,7,5,92,0,0
+US-5461,Tillamook State Forest,45.5904,-123.558,CN85fo,US-OR,154,125,4289,0,0
+US-5640,Lewis and Clark National Historical Park,46.1335,-123.885,CN86bd,"US-OR,US-WA",110,99,4627,0,0
+US-6227,Snake River National Wild & Scenic River,43.6408,-110.581,DN43rp,"US-ID,US-OR,US-WA,US-WY",110,105,7500,0,0
+US-6434,Champoeg State Park,45.2513,-122.886,CN85ng,US-OR,290,266,8066,0,0
+US-6435,Emigrant Springs State Park,45.5412,-118.464,DN05sm,US-OR,81,75,3640,0,0
+US-6436,North Santiam State Park,44.7703,-122.565,CN84rs,US-OR,44,38,898,0,0
+US-7361,Hells Canyon National Recreation Area,45.521,-116.731,DN15pm,"US-ID,US-OR",27,25,599,0,0
+US-7482,Crooked River National Grassland,44.4966,-121.056,CN94ll,US-OR,117,114,3479,0,0
+US-8318,Roads End State Recreation Area,45.008,-124.009,CN75xa,US-OR,62,50,1044,1,0
+US-9142,Deschutes River State Recreation Area,45.6334,-120.909,CN95np,US-OR,89,89,6405,0,0
+US-9143,Detroit Lake State Recreation Area,44.7291,-122.176,CN84vr,US-OR,31,23,504,0,0
+US-9144,Tryon Creek State Natural Area,45.4415,-122.675,CN85pk,US-OR,98,84,2232,0,0
+US-9145,Devils Lake State Recreation Area,44.9705,-124.013,CN74xx,US-OR,28,24,476,0,0
+US-9146,Fall Creek State Recreation Area,43.9716,-122.666,CN83qx,US-OR,38,35,1191,0,0
+US-9147,Farewell Bend State Recreation Area,44.3035,-117.227,DN14jh,US-OR,165,163,8447,0,0
+US-9148,Goose Lake State Recreation Area,41.9938,-120.322,CN91ux,US-OR,21,21,993,0,0
+US-9149,Ontario State Recreation Area,44.0505,-116.975,DN14mb,US-OR,90,82,3623,0,0
+US-9150,Saddle Mt State Natural Area,45.9629,-123.69,CN85dx,US-OR,13,12,179,0,0
+US-9151,Succor Creek State Natural Area,43.4536,-117.12,DN13kk,US-OR,19,18,569,0,0
+US-9152,TouVelle State Park State Recreation Area,42.4404,-122.889,CN82nk,US-OR,188,173,9392,0,0
+US-9153,Clyde Holliday State Recreation Area,44.4163,-119.088,DN04kj,US-OR,27,24,631,0,0
+US-9154,Unity Lake State Recreation Area,44.5001,-118.187,DN04vm,US-OR,9,9,273,0,0
+US-9155,Historic Columbia River Highway State Trail,45.7037,-121.487,CN95gq,US-OR,135,128,7450,0,0
+US-9156,Crooked River National Wild and Scenic River,44.1582,-120.834,CN94nd,US-OR,21,18,589,0,0
+US-9157,Donner und Blitzen National Wild and Scenic River,42.8277,-118.887,DN02nt,US-OR,25,22,1004,0,0
+US-9158,John Day National Wild and Scenic River,44.796,-120.002,CN94xt,US-OR,11,11,224,0,0
+US-9159,Lower Deschutes National Wild and Scenic River,45.3362,-120.948,CN95mi,US-OR,56,54,1787,0,0
+US-9160,Steens Mountain BLM Special Recreation Management Area,42.6558,-118.727,DN02pp,US-OR,40,32,1559,0,0
+US-9523,Agate Beach State Recreation Area,44.6596,-124.056,CN74xp,US-OR,27,22,412,0,0
+US-9524,Angel's Rest State Trail,45.5602,-122.173,CN85vn,US-OR,18,15,214,0,0
+US-9525,Arcadia Beach State Recreation Area,45.8464,-123.96,CN85au,US-OR,28,24,704,0,0
+US-9526,Arizona Beach State Recreation Area,42.6155,-124.398,CN72to,US-OR,13,13,245,0,0
+US-9527,Bandon State Natural Area,43.0725,-124.435,CN73sb,US-OR,39,36,857,0,0
+US-9528,Banks-Vernonia State Trail,45.7585,-123.202,CN85js,US-OR,95,85,2347,0,0
+US-9529,Beachside State Recreation Area,44.3833,-124.089,CN74wj,US-OR,24,18,287,0,0
+US-9530,Benson State Recreation Area,45.5767,-122.128,CN85wn,US-OR,25,23,392,0,0
+US-9531,Bonnie Lure State Recreation Area,45.3504,-122.379,CN85ti,US-OR,65,61,2069,0,0
+US-9532,Cape Kiwanda State Natural Area,45.2186,-123.976,CN85af,US-OR,14,13,229,0,0
+US-9533,Clay Myers State Natural Area,45.2734,-123.95,CN85ag,US-OR,12,10,155,0,0
+US-9534,Coquille Myrtle Grove State Natural Site,42.949,-124.106,CN72ww,US-OR,9,9,324,0,0
+US-9535,Crissey Field State Recreation Area,42.0033,-124.212,CN72va,US-OR,17,15,343,0,0
+US-9536,D River State Recreation Area,44.9675,-124.017,CN74xx,US-OR,37,33,681,0,0
+US-9537,Dabney State Recreation Area,45.5171,-122.356,CN85tm,US-OR,52,48,1060,0,0
+US-9538,Darlingtonia State Natural Site,44.0475,-124.097,CN74wb,US-OR,17,13,208,0,0
+US-9539,Del Rey Beach State Recreation Area,46.0472,-123.929,CN86ab,US-OR,77,70,2852,0,0
+US-9540,Devil's Punchbowl State Natural Area,44.7471,-124.065,CN74xr,US-OR,34,29,618,0,0
+US-9541,Dexter State Recreation Area,43.9166,-122.813,CN83ov,US-OR,69,68,1947,0,0
+US-9542,Driftwood Beach State Recreation Area,44.4643,-124.08,CN74xl,US-OR,22,18,406,0,0
+US-9543,Erratic Rock State Natural Area,45.1376,-123.291,CN85id,US-OR,43,42,1114,1,0
+US-9544,Fogarty Creek State Recreation Area,44.8393,-124.049,CN74xu,US-OR,16,12,233,0,0
+US-9545,Fort Rock State Natural Area,43.3728,-121.066,CN93li,US-OR,37,37,1542,0,0
+US-9546,Fort Yamhill State Historic Site,45.075,-123.573,CN85fb,US-OR,50,46,1090,2,0
+US-9547,Geisel Monument State Historic Site,42.4906,-124.416,CN72tl,US-OR,8,8,127,0,0
+US-9548,Gleneden Beach State Recreation Area,44.8758,-124.037,CN74xv,US-OR,35,29,532,1,0
+US-9549,Golden Townsite State Historic Site,42.682,-123.331,CN82iq,US-OR,15,14,295,0,0
+US-9550,Golden and Silver Falls State Natural Area,43.482,-123.933,CN83al,US-OR,7,7,163,0,0
+US-9551,"Government, Lemon, and McGuire Islands State Recreation Area",45.57,-122.508,CN85rn,US-OR,7,7,266,0,0
+US-9552,Governor Patterson Memorial State Recreation Area,44.4141,-124.083,CN74xj,US-OR,28,25,490,0,0
+US-9553,Heritage Landing - Deschutes State Recreation Area,45.6325,-120.915,CN95np,US-OR,75,75,6790,0,0
+US-9554,Hug Point State Recreation Area,45.8288,-123.961,CN85at,US-OR,23,20,523,0,0
+US-9555,Iwetemlaykin State Historic Site,45.3428,-117.224,DN15ji,US-OR,11,10,253,0,0
+US-9556,Jackson F. Kimball State Recreation Area,42.738,-121.98,CN92ar,US-OR,9,9,137,0,0
+US-9557,Jasper State Recreation Area,43.9882,-122.902,CN83nx,US-OR,628,580,19376,0,0
+US-9558,John B. Yeon State Park,45.6124,-122.004,CN85xo,US-OR,16,15,228,0,0
+US-9559,Lost Creek State Park,44.5453,-124.074,CN74xn,US-OR,23,20,416,0,0
+US-9560,Lowell State Recreation Area,43.922,-122.795,CN83ow,US-OR,92,84,3073,0,0
+US-9561,Luckiamute Landing State Natural Area,44.7153,-123.163,CN84kr,US-OR,113,100,4978,0,0
+US-9562,Manhattan Beach State Recreation Area,45.6399,-123.941,CN85ap,US-OR,27,24,497,0,0
+US-9563,McVay Rock State Recreation Area,42.0198,-124.236,CN72va,US-OR,20,15,492,0,0
+US-9564,Minam State Recreation Area,45.6216,-117.722,DN15do,US-OR,14,10,160,0,0
+US-9565,Mongold State Park,44.712,-122.194,CN84vr,US-OR,22,22,363,0,0
+US-9566,Munson Creek Falls State Natural Area,45.3651,-123.773,CN85ci,US-OR,5,3,52,0,0
+US-9567,Neskowin Beach State Recreation Area,45.1034,-123.982,CN85ac,US-OR,18,13,170,0,0
+US-9568,Ocean Shore State Recreation Area,46.0973,-123.942,CN86ac,US-OR,192,182,8783,0,0
+US-9569,Oceanside Beach State Recreation Area,45.4608,-123.97,CN85al,US-OR,16,13,198,0,0
+US-9570,Otter Point State Recreation Area,42.464,-124.422,CN72sl,US-OR,12,11,160,0,0
+US-9571,Paradise Point State Recreation Area,42.7603,-124.516,CN72rs,US-OR,18,16,296,0,0
+US-9572,Pete French Round Barn State Historic Site,43.1326,-118.643,DN03qd,US-OR,10,10,300,0,0
+US-9573,Seal Rock State Recreation Area,44.497,-124.083,CN74xl,US-OR,14,14,292,0,0
+US-9574,Seven Devils State Recreation Area,43.2358,-124.39,CN73tf,US-OR,69,66,4206,0,0
+US-9575,Sitka Sedge State Natural Area,45.2629,-123.955,CN85ag,US-OR,15,14,203,0,0
+US-9576,Smelt Sands State Recreation Area,44.322,-124.106,CN74wh,US-OR,19,18,244,0,0
+US-9577,Stonefield Beach State Recreation Area,44.2233,-124.111,CN74wf,US-OR,6,6,91,0,0
+US-9578,Sumpter Valley Dredge State Historic Site,44.7416,-118.203,DN04vr,US-OR,14,13,397,0,0
+US-9579,Sunset Beach State Recreation Area,46.0991,-123.939,CN86ac,US-OR,70,62,4142,0,0
+US-9580,Tokatee Klootchman State Natural Area,44.2083,-124.115,CN74we,US-OR,5,4,72,0,0
+US-9581,Tolovana Beach State Recreation Area,45.8726,-123.961,CN85au,US-OR,65,50,2344,0,0
+US-9582,Tseriadun State Recreation Area,42.7463,-124.51,CN72rr,US-OR,26,25,428,0,0
+US-9583,W.B. Nelson State Park,44.4155,-124.035,CN74xj,US-OR,10,10,166,0,0
+US-9584,Willamette Stone State Historic Site,45.5212,-122.743,CN85pm,US-OR,82,62,1173,0,0
+US-9585,Winchuck State Recreation Area,42.007,-124.212,CN72va,US-OR,11,11,331,0,0
+US-9586,Yachats State Recreation Area,44.3107,-124.107,CN74wh,US-OR,24,21,396,0,0
+US-9587,Yachats Ocean Road State Natural Area,44.3078,-124.103,CN74wh,US-OR,18,16,314,0,0
+US-9588,Yaquina Bay State Recreation Area,44.624,-124.064,CN74xo,US-OR,56,52,1131,0,0
+US-9787,Bald Peak State Park,45.3955,-123.056,CN85lj,US-OR,173,156,4984,0,0
+US-9976,Pilot Butte State Park,44.0602,-121.283,CN94ib,US-OR,59,51,1021,0,0
+US-9977,Floras Lake State Natural Area,42.8565,-124.52,CN72ru,US-OR,14,14,272,0,0
+US-9978,Lewis and Clark State Recreation Area,45.5416,-122.378,CN85tm,US-OR,86,74,1485,0,0
+US-9979,Portland Women's Forum State Park,45.5339,-122.262,CN85um,US-OR,123,102,3607,0,0
+US-9980,Willamette River Greenway and Water State Trail,43.8085,-123.032,CN83lt,US-OR,560,516,18485,0,0
+US-9981,Molalla River Corridor BLM Recreation Management Area,45.0664,-122.49,CN85sb,US-OR,15,14,322,0,0
+US-9982,Table Rock Wilderness Area,44.9614,-122.409,CN84tx,US-OR,9,8,186,0,0
+US-9983,Valley of the Giants Outstanding Natural Area,44.9363,-123.716,CN84dw,US-OR,0,0,0,0,0
+US-9984,Tualatin River Water National Scenic Trail,45.3939,-122.772,CN85oj,US-OR,95,84,2173,0,0
+US-9985,Whychus Creek National Wild and Scenic River,44.2224,-121.576,CN94ff,US-OR,9,9,213,0,0
+US-9986,West Eugene Wetlands BLM Recreation Management Area,44.0504,-123.155,CN84kb,US-OR,84,78,1915,0,0
+US-9987,Four Craters Lava Bed Wilderness Area,43.3769,-120.681,CN93pj,US-OR,3,3,84,0,0
+US-9990,Mayfield Pond BLM Recreation Management Area,44.0853,-121.126,CN94kc,US-OR,22,22,653,0,0
+US-9991,Redmond Caves BLM Recreation Management Area,44.2475,-121.178,CN94jf,US-OR,19,19,316,0,0
+US-9992,Nestucca River National Wild and Scenic River,45.2828,-123.54,CN85fg,US-OR,11,10,184,0,0
+US-9993,Nestucca River OHV BLM Recreation Management Area,45.2665,-123.467,CN85gg,US-OR,25,23,528,0,0
+US-9994,Dean Creek Elk Viewing BLM Recreation Management Area,43.6953,-124.039,CN73xq,US-OR,20,16,402,0,0
+US-9995,Alsea Falls BLM Recreation Management Area,44.3254,-123.491,CN84gh,US-OR,9,9,260,0,0
+US-9996,Sauvie Island State Fish and Wildlife Area,45.7325,-122.774,CN85or,US-OR,48,46,1477,0,0
+US-9997,Irrigon State Fish and Wildlife Area,45.9129,-119.431,DN05gv,US-OR,9,9,257,0,0
+US-9998,Willow Creek State Fish and Wildlife Area,45.7825,-120.005,CN95xs,US-OR,5,5,125,0,0
+US-9999,Coyote Springs State Fish and Wildlife Area,45.8426,-119.639,DN05eu,US-OR,7,6,216,0,0
+US-10000,Power City State Fish and Wildlife Area,45.8938,-119.294,DN05iv,US-OR,24,21,583,0,0
+US-10001,Jewell Meadows State Fish and Wildlife Area,45.9401,-123.528,CN85fw,US-OR,13,13,269,0,0
+US-10002,Ladd Marsh State Fish and Wildlife Area,45.2463,-117.953,DN15af,US-OR,13,11,297,0,0
+US-10003,Phillip W. Schneider State Fish and Wildlife Area,44.3529,-119.555,DN04fi,US-OR,3,3,95,0,0
+US-10007,Oregon Coast State Trail,44.8296,-124.058,CN74xt,US-OR,442,433,18473,0,0
+US-10008,Klamath Hills BLM Recreation Management Area,42.0609,-121.754,CN92cb,US-OR,9,7,127,0,0
+US-10009,Row River National Recreation Trail,43.7776,-123.007,CN83ls,US-OR,14,13,329,0,0
+US-10010,Fishermen's Bend BLM Recreation Management Area,44.7562,-122.513,CN84rs,US-OR,19,19,478,0,0
+US-10011,OC&E Woods Line State Trail State Trail,42.1809,-121.668,CN92de,US-OR,20,11,181,0,0
+US-10012,Peter Skene Ogden State Park,44.3903,-121.193,CN94jj,US-OR,19,17,466,0,0
+US-10013,Thompson's Mills State Historic Site,44.4608,-123.081,CN84ll,US-OR,40,34,1137,0,0
+US-10014,Fern Ridge State Fish and Wildlife Area,44.0619,-123.355,CN84hb,US-OR,128,122,3211,0,0
+US-10016,Mill Creek BLM Recreation Management Area,44.9852,-123.43,CN84gx,US-OR,19,19,379,1,0
+US-10017,Quartzville Creek BLM Wild and Scenic River,44.5491,-122.43,CN84sn,US-OR,9,9,180,0,0
+US-10018,Silver Creek BLM Recreation Management Area,44.1163,-122.442,CN84sc,US-OR,3,3,68,0,0
+US-10019,Klamath BLM Wild and Scenic River,42.0896,-122.073,CN82xc,US-OR,3,3,123,0,0
+US-10020,Rogue River BLM Wild and Scenic River,42.4632,-123.486,CN82gl,US-OR,8,8,134,0,0
+US-10021,Topsy BLM Recreation Management Area,42.1236,-122.042,CN82xc,US-OR,4,4,110,0,0
+US-10022,Surveyor BLM Recreation Management Area,42.2537,-122.228,CN82vg,US-OR,6,5,105,0,0
+US-10023,Wood River BLM Recreation Management Area,42.5811,-121.931,CN92an,US-OR,15,15,251,0,0
+US-10024,Duncan Reservoir BLM Recreation Management Area,43.0713,-120.945,CN93mb,US-OR,9,8,1006,0,0
+US-10025,Lost Forest/Dunes/Fossil BLM Special Recreation Management Area,43.3339,-120.396,CN93ti,US-OR,4,4,222,0,0
+US-10026,Devils Garden Lava Bed Wilderness Area,43.5228,-120.866,CN93nm,US-OR,4,4,81,0,0
+US-10027,Millican Valley OHV BLM Recreation Management Area,44.0626,-120.909,CN94nb,US-OR,20,17,665,0,0
+US-10028,Oregon Badlands BLM Wilderness Area,43.9578,-121.052,CN93lw,US-OR,21,20,618,0,0
+US-10029,Prichard State Park,43.9605,-124.101,CN73wx,US-OR,16,14,242,0,0
+US-10030,Juniper Woodlands BLM Recreation Management Area,44.0643,-121.067,CN94lb,US-OR,33,33,1376,0,0
+US-10032,Airport Allotment BLM Recreation Management Area,44.0659,-121.19,CN94jb,US-OR,73,68,1221,0,0
+US-10053,Maston Area BLM Recreation Management Area,44.2114,-121.303,CN94if,US-OR,24,23,509,0,0
+US-10055,Cline Buttes OHV BLM Recreation Management Area,44.2884,-121.335,CN94hg,US-OR,26,25,652,0,0
+US-10056,Spring Basin Wilderness Area,44.869,-120.44,CN94su,US-OR,3,3,66,0,0
+US-10240,Kenneth Denman State Wildlife Area,42.4178,-122.866,CN82nk,US-OR,137,130,7797,0,0
+US-10242,Table Rocks BLM Special Recreation Management Area,42.4689,-122.945,CN82ml,US-OR,16,15,608,0,0
+US-10249,Salmon River National Wild and Scenic River,45.2716,-121.941,CN95ag,US-OR,41,41,1660,0,0
+US-10251,White River National Wild and Scenic River,45.3032,-121.674,CN95dh,US-OR,19,19,586,0,0
+US-10355,I-205 Multi-Use State Trail,45.3775,-122.587,CN85qj,US-OR,101,90,2953,0,0
+US-10356,Mountain of the Rogue Trail System BLM Recreation Management Area,42.4178,-123.156,CN82kk,US-OR,16,15,414,0,0
+US-10357,Shotgun Creek OHV BLM Recreation Management Area,44.2456,-122.863,CN84nf,US-OR,6,6,134,0,0
+US-10358,Shotgun Creek BLM Recreation Management Area,44.2288,-122.846,CN84nf,US-OR,11,11,342,0,0
+US-10359,Wildwood Recreation Site BLM Recreation Management Area,45.355,-121.987,CN95ai,US-OR,30,30,972,0,0
+US-10390,Sandy State Fish Hatchery,45.4071,-122.255,CN85uj,US-OR,22,22,772,0,0
+US-10412,Yaquina Head Outstanding Natural Area BLM Special Recreation Management Area,44.6756,-124.074,CN74xq,US-OR,19,17,330,0,0
+US-10471,Maupin Section Foreman House BLM Historic Area,45.1682,-121.085,CN95ke,US-OR,9,9,191,0,0
+US-10472,Marmot BLM Recreation Management Area,45.4003,-122.133,CN85wj,US-OR,10,7,340,0,0
+US-10473,Sandy Ridge BLM Recreation Management Area,45.3807,-122.03,CN85xj,US-OR,13,10,257,0,0
+US-10474,Sutton Mountain Wilderness Area,44.7069,-120.171,CN94vq,US-OR,6,6,117,0,0
+US-10475,Pat's Cabin Wilderness Area,44.697,-120.285,CN94uq,US-OR,5,5,86,0,0
+US-10476,Monument BLM Recreation Management Area,44.8152,-119.424,DN04gt,US-OR,1,1,13,0,0
+US-10477,Virtue Flat Off-Highway Vehicle BLM Recreation Management Area,44.7975,-117.673,DN14dt,US-OR,10,10,254,0,0
+US-10478,Spring BLM Recreation Management Area,44.3761,-117.238,DN14jj,US-OR,29,28,718,0,0
+US-10479,Oasis BLM Recreation Management Area,44.2629,-117.128,DN14kg,US-OR,38,35,934,0,0
+US-10480,Chukar Park BLM Recreation Management Area,43.8034,-118.155,DN03wt,US-OR,2,2,42,0,0
+US-10481,Wild Horse Basin Wilderness Area,43.6063,-117.255,DN13io,US-OR,4,4,119,0,0
+US-10482,Riverside BLM Recreation Management Area,43.5533,-118.165,DN03wn,US-OR,1,1,15,0,0
+US-10483,Jordan Craters Area of Environmental Concern National Nature Reserve,43.1459,-117.46,DN13gd,US-OR,2,2,129,0,0
+US-10484,Antelope Reservoir BLM Recreation Management Area,42.9086,-117.237,DN12jv,US-OR,6,5,328,0,0
+US-10485,Saddle Butte BLM Wilderness Area,43.0516,-117.907,DN13bb,US-OR,1,1,53,0,0
+US-10486,Warner Wetland Reserve,42.4428,-119.827,DN02ck,US-OR,1,1,41,0,0
+US-10487,Lake Abert and Abert Rim BLM Wilderness Area,42.5468,-120.214,CN92vn,US-OR,6,6,100,0,0
+US-10488,Sunstone Collection BLM Recreation Management Area,42.7232,-119.861,DN02br,US-OR,4,4,148,0,0
+US-10489,Chikahominy BLM Recreation Management Area,43.5464,-119.613,DN03en,US-OR,14,13,278,0,0
+US-10490,Moon Reservoir BLM Recreation Management Area,43.4082,-119.399,DN03hj,US-OR,2,2,74,0,0
+US-10491,Radar Hill BLM Recreation Management Area,43.5609,-119.136,DN03kn,US-OR,16,16,492,0,0
+US-10492,Provolt BLM Recreation Management Area,42.2887,-123.231,CN82jg,US-OR,11,8,378,0,0
+US-10493,Kenney Meadows BLM Recreation Management Area,42.1126,-122.93,CN82mc,US-OR,3,3,87,0,0
+US-10494,Millpond BLM Recreation Management Area,43.3806,-122.949,CN83mj,US-OR,3,2,29,0,0
+US-10495,Rock Creek BLM Recreation Management Area,43.3981,-122.93,CN83mj,US-OR,2,2,35,0,0
+US-10496,Sharps Creek BLM Recreation Management Area,43.6652,-122.807,CN83op,US-OR,4,4,117,0,0
+US-10497,Clay Creek BLM Recreation Management Area,43.905,-123.569,CN83fv,US-OR,4,4,70,0,0
+US-10498,Whittaker Creek BLM Recreation Management Area,43.986,-123.665,CN83ex,US-OR,6,5,83,0,0
+US-10499,Lake Creek Falls BLM Recreation Management Area,44.1594,-123.573,CN84fd,US-OR,18,17,408,0,0
+US-10500,Summer Lake State Wildlife Area,42.9524,-120.787,CN92ow,US-OR,3,2,135,0,0
+US-10501,E.E. Wilson State Wildlife Area,44.7,-123.211,CN84jq,US-OR,37,32,710,0,0
+US-10502,Elkhorn State Wildlife Area,45.0235,-118.075,DN05xa,US-OR,5,5,81,0,0
+US-10503,White River State Wildlife Area,45.2377,-121.353,CN95hf,US-OR,9,9,394,0,0
+US-10504,Historic Shirk Ranch BLM Historic Area,42.2382,-119.52,DN02ff,US-OR,2,2,39,0,0
+US-10505,Guano Creek BLM Wilderness Area,42.2592,-119.542,DN02fg,US-OR,1,1,21,0,0
+US-10506,Estacada- Boring State Trail,45.4283,-122.376,CN85tk,US-OR,42,42,1189,0,0
+US-10537,Three Fingers BLM Herd Management Area,43.4124,-117.172,DN13jj,US-OR,10,10,134,0,0
+US-10538,Jackies Butte BLM Herd Management Area,42.6438,-117.547,DN12fp,US-OR,1,1,11,0,0
+US-10605,Muriel O. Ponsler Memorial State Park,44.1698,-124.116,CN74we,US-OR,9,8,123,0,0
+US-10606,Cline Falls State Park,44.2683,-121.255,CN94ig,US-OR,22,22,332,0,0
+US-10607,Bradley State Park,46.1712,-123.437,CN86ge,US-OR,36,35,2184,0,0
+US-10608,Boiler Bay State Park,44.8294,-124.065,CN74xt,US-OR,35,28,573,0,0
+US-10609,Bolon Island Tideways State Park,43.7126,-124.1,CN73wr,US-OR,13,13,285,0,0
+US-10610,South Santiam State Fish Hatchery,44.4151,-122.676,CN84pj,US-OR,10,10,315,0,0
+US-10611,Lookingglass Hatchery State Fish Hatchery,45.7328,-117.865,DN15br,US-OR,1,1,11,0,0
+US-10612,Wizard Falls State Fish Hatchery,44.5223,-121.632,CN94em,US-OR,10,10,191,0,0
+US-10613,Cole M. Rivers State Fish Hatchery,42.6626,-122.685,CN82pp,US-OR,18,18,628,0,0
+US-10733,Bolt Mountain BLM Historic Trail,42.361,-123.419,CN82gi,US-OR,3,3,79,0,0
+US-10734,East Applegate Ridge Trail BLM Historic Trail,42.2452,-122.978,CN82mf,US-OR,10,10,530,0,0
+US-10735,Beaty Butte HMA BLM Herd Management Area,42.0285,-119.447,DN02ga,US-OR,2,2,39,0,0
+US-10736,Cold Springs HMA BLM Herd Management Area,43.4394,-117.786,DN13ck,US-OR,1,1,113,0,0
+US-10737,Coyote Lake/Alvord Tule Springs HMA BLM Herd Management Area,42.5581,-118.09,DN02wn,US-OR,2,2,40,0,0
+US-10738,Hog Creek HMA BLM Herd Management Area,43.8297,-117.721,DN13dt,US-OR,3,3,63,0,0
+US-10739,Kiger HMA BLM Herd Management Area,42.9953,-118.606,DN02qx,US-OR,4,4,98,0,0
+US-10740,Liggett Table BLM Herd Management Area,43.9948,-120.089,CN93wx,US-OR,3,3,59,0,0
+US-10741,Murderer's Creek BLM Herd Management Area,44.1923,-119.526,DN04fe,US-OR,2,2,43,0,0
+US-10742,Paisley Desert BLM Herd Management Area,42.9611,-120.386,CN92tx,US-OR,2,2,58,0,0
+US-10743,Palomino Butte BLM Herd Management Area,43.4219,-119.208,DN03jk,US-OR,2,2,75,0,0
+US-10744,Pokegama BLM Herd Management Area,42.0562,-122.203,CN82vb,US-OR,3,3,136,0,0
+US-10745,Riddle Mountain BLM Herd Management Area,43.0492,-118.325,DN03ub,US-OR,1,1,21,0,0
+US-10746,Sand Springs BLM Herd Management Area,43.0296,-117.746,DN13da,US-OR,1,1,53,0,0
+US-10747,Sheepshead/Heath Creek BLM Herd Management Area,42.8233,-118.039,DN02xt,US-OR,3,3,81,0,0
+US-10748,South Steens BLM Herd Management Area,42.5336,-118.714,DN02pm,US-OR,4,4,129,0,0
+US-10749,Stinkingwater BLM Herd Management Area,43.5791,-118.433,DN03sn,US-OR,3,3,82,0,0
+US-10750,Warm Springs BLM Herd Management Area,43.1069,-119.201,DN03jc,US-OR,1,1,20,0,0
+US-10752,Cascadia short bridge day use National Recreation Area,44.3909,-122.511,CN84rj,US-OR,24,24,505,0,0
+US-10753,Woodrat Mountain Paragliding BLM Recreation Management Area,42.2311,-123.004,CN82lf,US-OR,49,49,3620,0,0
+US-10754,Eight Dollar Mountain Botanical Wayside BLM Recreation Management Area,42.2332,-123.661,CN82ef,US-OR,5,5,109,0,0
+US-10755,Cathedral Hills Trail System BLM Recreation Management Area,42.394,-123.334,CN82hj,US-OR,7,7,158,0,0
+US-10757,Sterling Mine Ditch Trail BLM Historic Trail,42.1608,-122.915,CN82nd,US-OR,5,5,223,0,0
+US-10760,Wild Rogue BLM Wilderness Area,42.722,-123.878,CN82br,US-OR,3,3,52,0,0
+US-10761,Rogue River Ranch BLM Historic Preservation Site,42.7188,-123.882,CN82br,US-OR,1,1,21,0,0
+US-11243,Cape Sebastian Corridor State Recreation Area,42.3288,-124.426,CN72sh,US-OR,8,6,99,0,0
+US-11263,Battle Mountain State Forest,45.2837,-118.971,DN05mg,US-OR,5,5,100,0,0
+US-11264,Ukiah Dale State Forest,45.1241,-118.973,DN05mc,US-OR,4,3,60,0,0
+US-11969,Umpqua State Scenic Corridor State Park,43.6774,-123.933,CN83aq,US-OR,13,7,136,0,0
+US-12082,Roaring River State Fish Hatchery,44.6252,-122.719,CN84pp,US-OR,13,13,456,1,0
+US-12179,Echo Meadows BLM Interpretive Site,45.72,-119.309,DN05ir,US-OR,6,6,148,0,0
+US-12335,Pistol River State Park,42.2753,-124.405,CN72tg,US-OR,3,3,51,0,0
+US-12347,Grande Ronde National Wild and Scenic River,45.9806,-117.392,DN15hx,US-OR,2,2,31,0,0
+US-12348,Wallowa BLM Wild and Scenic River,45.7243,-117.784,DN15cr,US-OR,2,2,22,0,0
+US-12370,Page Springs BLM Recreation Management Area,42.8035,-118.867,DN02nt,US-OR,8,8,248,0,0
+US-12453,Rocky Point Viewpoint State Park,44.7847,-124.073,CN74xs,US-OR,4,4,64,0,0
+US-12462,New River BLM Special Recreation Management Area,42.991,-124.461,CN72sx,US-OR,6,6,194,0,0
+US-12465,Face Rock State Park,43.1053,-124.434,CN73sc,US-OR,13,11,371,0,0
+US-12467,Susan Creek BLM Recreation Management Area,43.2973,-122.894,CN83nh,US-OR,2,2,68,0,0
+US-12468,Swiftwater Day Use BLM Recreation Management Area,43.333,-123.005,CN83lh,US-OR,1,1,10,0,0
+US-12469,Baker Wayside BLM Recreation Management Area,43.317,-122.974,CN83mh,US-OR,1,1,11,0,0
+US-12470,Emerald Waters BLM Recreation Management Area,43.3272,-123.005,CN83lh,US-OR,1,1,10,0,0
+US-12471,Lone Rock BLM Recreation Management Area,43.3169,-123.061,CN83lh,US-OR,2,1,12,0,0
+US-12472,North Bank Habitat BLM Special Recreation Management Area,43.3254,-123.203,CN83jh,US-OR,1,1,10,0,0
+US-12473,Scaredman BLM Recreation Management Area,43.3797,-122.761,CN83oj,US-OR,0,0,0,0,0
+US-12474,E-Mile Day Use BLM Recreation Management Area,43.2468,-122.89,CN83nf,US-OR,1,1,10,0,0
+US-12475,Wolf Creek BLM Special Recreation Management Area,43.2338,-122.951,CN83mf,US-OR,1,1,16,0,0
+US-12476,Cavitt Creek Falls BLM Recreation Management Area,43.1996,-123.023,CN83le,US-OR,1,1,13,0,0
+US-12510,South Slough Reserve State Park Preserve,43.2955,-124.335,CN73th,US-OR,7,7,174,0,0
+US-12594,Maria C Jackson State Park Preserve,43.1599,-123.865,CN83bd,US-OR,5,5,140,0,0
+US-12741,Koberg Beach State Recreation Area,45.704,-121.476,CN95gq,US-OR,2,2,69,0,0
+US-12742,Wygant State Natural Area,45.6978,-121.64,CN95eq,US-OR,0,0,0,0,0
+US-12743,Rough and Ready BLM Recreation Management Area,42.0954,-123.683,CN82dc,US-OR,2,2,50,0,0
+US-12744,Seneca Fouts-Vinzenz Lausmann Mem State Natural Area,45.7031,-121.618,CN95eq,US-OR,5,5,79,0,0
+US-12747,Bridal Veil Falls State Park,45.5536,-122.183,CN85vn,US-OR,30,29,1083,0,0
+US-12749,Conde McCullough Memorial Wayside State Park,43.448,-124.205,CN73vk,US-OR,5,5,90,0,0
+US-12834,Park Creek Campground BLM Recreation Management Area,43.2465,-123.896,CN83bf,US-OR,2,2,48,0,0
+US-12835,Osprey Boat BLM Recreation Management Area,43.45,-123.54,CN83fk,US-OR,2,2,44,0,0
+US-12836,Eagleview BLM Recreation Management Area,43.4978,-123.493,CN83gl,US-OR,1,1,25,0,0
+US-12837,East Shore BLM Recreation Management Area,43.5926,-123.835,CN83bo,US-OR,4,3,71,0,0
+US-12838,Loon Lake BLM Recreation Management Area,43.5972,-123.84,CN83bo,US-OR,1,1,33,0,0
+US-12839,Vincent Creek BLM Recreation Management Area,43.7926,-123.777,CN83ct,US-OR,1,1,11,0,0
+US-12840,Smith River BLM Recreation Management Area,43.7906,-123.814,CN83cs,US-OR,1,1,14,0,0
+US-12841,Fawn Creek BLM Recreation Management Area,43.7845,-123.831,CN83cs,US-OR,2,2,30,0,0
+US-12843,The North Spit BLM Recreation Management Area,43.4163,-124.28,CN73uj,US-OR,16,16,838,0,0
+US-12844,Bastendorff Beach BLM Recreation Management Area,43.3469,-124.346,CN73ti,US-OR,6,6,295,0,0
+US-12845,Hult Dam & Reservoir BLM Recreation Management Area,44.2412,-123.495,CN84gf,US-OR,1,1,15,0,0
+US-12881,Diamond Craters Outstanding BLM Recreation Management Area,43.0773,-118.75,DN03pb,US-OR,0,0,0,0,0
+US-12944,Bridge Creek State Fish and Wildlife Area,45.0831,-118.939,DN05mb,US-OR,0,0,0,0,0
+US-12945,Coquille Valley State Fish and Wildlife Area,43.2161,-124.259,CN73uf,US-OR,5,5,141,0,0
+US-12949,Klamath State Fish and Wildlife Area,42.1554,-121.81,CN92cd,US-OR,0,0,0,0,0
+US-12950,Lower Deschutes State Fish and Wildlife Area,45.5491,-120.902,CN95nn,US-OR,0,0,0,0,0
+US-12951,Prineville Reservoir State Fish and Wildlife Area,44.1485,-120.68,CN94pd,US-OR,1,1,27,0,0
+US-12952,Riverside State Fish and Wildlife Area,43.5525,-118.144,DN03wn,US-OR,0,0,0,0,0
+US-12953,Rogers State Fish and Wildlife Area,43.809,-117.037,DN13lt,US-OR,7,7,596,0,0
+US-12954,Wenaha State Fish and Wildlife Area,45.9331,-117.468,DN15gw,US-OR,0,0,0,0,0
+US-12958,Yellowbottom BLM Recreation Management Area,44.589,-122.374,CN84to,US-OR,2,2,26,0,0
+US-12959,Quartzville BC Byway Kiosk BLM Special Recreation Management Area,44.482,-122.515,CN84rl,US-OR,4,4,176,0,0
+US-12960,Dogwood BLM Recreation Management Area,44.5493,-122.429,CN84sn,US-OR,2,2,25,0,0
+US-12961,Old Miners Meadow BLM Recreation Management Area,44.5862,-122.353,CN84to,US-OR,2,2,27,0,0
+US-12976,Fall River State Fish Hatchery,43.7983,-121.575,CN93ft,US-OR,3,3,152,0,0
+US-12977,Salmon River State Fish Hatchery,45.0172,-123.937,CN85aa,US-OR,3,3,67,2,0
+US-12978,Willamette State Fish Hatchery,43.745,-122.444,CN83sr,US-OR,0,0,0,0,0
+US-12979,Bonneville State Fish Hatchery,45.6339,-121.959,CN95ap,US-OR,6,6,140,0,0
+US-12980,Trask River State Fish Hatchery,45.4321,-123.725,CN85dk,US-OR,3,3,75,0,0
+US-12981,Oak Springs State Fish Hatchery,45.2189,-121.079,CN95lf,US-OR,4,4,168,0,0
+US-12982,Irrigon State Fish Hatchery,45.91,-119.547,DN05fv,US-OR,1,1,30,0,0
+US-12983,Gnat Creek State Fish Hatchery,46.1696,-123.487,CN86ge,US-OR,1,1,13,0,0
+US-12984,Cedar Creek State Fish Hatchery,45.2137,-123.848,CN85bf,US-OR,2,2,32,0,0
+US-12985,Big Creek State Fish Hatchery,46.1467,-123.581,CN86fd,US-OR,1,1,13,0,0
+US-12986,Alsea River State Fish Hatchery,44.4206,-123.563,CN84fk,US-OR,2,2,41,2,0
+US-12987,Klamath State Fish Hatchery,42.65,-121.947,CN92ap,US-OR,1,1,10,0,0
+US-12988,North Nehalem State Fish Hatchery,45.8123,-123.772,CN85ct,US-OR,1,1,15,0,0
+US-12989,Wallowa State Fish Hatchery,45.4179,-117.3,DN15ik,US-OR,0,0,0,0,0
+US-12990,Rock Creek State Fish Hatchery,43.3364,-123.001,CN83li,US-OR,0,0,0,0,0
+US-12991,Marion Forks State Fish Hatchery,44.6118,-121.947,CN94ao,US-OR,2,2,54,0,0
+US-12992,Bandon State Fish Hatchery,43.115,-124.383,CN73tc,US-OR,3,3,38,0,0
+US-12993,Elk River State Fish Hatchery,42.7381,-124.402,CN72tr,US-OR,1,1,14,0,0
+US-12994,Klaskanine State Fish Hatchery,46.0899,-123.718,CN86dc,US-OR,1,1,23,0,0
+US-12995,Leaburg State Fish Hatchery,44.1377,-122.611,CN84qd,US-OR,1,1,30,0,0
+US-13065,Leslie Gulch BLM Recreation Management Area,43.3006,-117.285,DN13ih,US-OR,5,5,138,0,0
+US-13066,Upper Leslie Gulch BLM Wilderness Area,43.2854,-117.235,DN13jg,US-OR,3,3,82,0,0
+US-13067,Slocum Creek Campground BLM Recreation Management Area,43.3214,-117.319,DN13ih,US-OR,2,2,32,0,0
+US-13068,Honeycombs BLM Wilderness Area,43.4181,-117.277,DN13ik,US-OR,2,2,23,0,0
+US-13069,Dry Creek Buttes BLM Wilderness Area,43.4279,-117.396,DN13hk,US-OR,0,0,0,0,0
+US-13070,Owyhee State Airstrip State Recreation Site,43.4248,-117.346,DN13hk,US-OR,0,0,0,0,0
+US-13071,Slocum Creek BLM Wilderness Area,43.2861,-117.297,DN13ig,US-OR,2,2,32,0,0
+US-13072,Elliott Corbett State Park,44.4083,-121.774,CN94cj,US-OR,0,0,0,0,0
+US-13073,Crooked Creek State Natural Area,42.805,-117.731,DN12dt,US-OR,1,1,43,0,0
+US-13074,Canyon Creek State Forest,42.8969,-123.241,CN82jv,US-OR,2,2,26,0,0
+US-13075,Bear Gulch BLM Wilderness Area,42.8972,-123.233,CN82jv,US-OR,1,1,15,0,0
+US-13076,Red Bridge State Park,45.2898,-118.332,DN05ug,US-OR,0,0,0,0,0
+US-13078,Cascade State Fish Hatchery,45.6413,-121.928,CN95ap,US-OR,2,2,51,0,0
+US-13080,Booth State Recreation Site,42.1969,-120.591,CN92qe,US-OR,0,0,0,0,0
+US-13085,Heceta Head Lighthouse State Park,44.1348,-124.123,CN74wd,US-OR,3,2,38,0,0
+US-13086,Eagle Creek National Fish Hatchery,45.2771,-122.204,CN85vg,US-OR,2,2,107,0,0
+US-13091,Tyee BLM Recreation Management Area,43.485,-123.484,CN83gl,US-OR,1,1,11,0,0
+US-13096,Bob Creek Wayside State Recreation Site,44.2443,-124.112,CN74wf,US-OR,1,1,12,0,0
+US-13097,Strawberry Hill Wayside State Recreation Site,44.2539,-124.112,CN74wg,US-OR,1,1,15,0,0
+US-13098,Neptune South Wayside State Recreation Site,44.2649,-124.108,CN74wg,US-OR,1,1,13,0,0
+US-13099,Neptune North Wayside State Recreation Site,44.2698,-124.108,CN74wg,US-OR,0,0,0,0,0
